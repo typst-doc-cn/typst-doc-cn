@@ -7,7 +7,7 @@ https://typst-doc-cn.github.io/docs/
 
 ## 贡献
 
-1. Fork 仓库
+1. Fork 仓库 https://github.com/typst-doc-cn/typst-doc-cn.github.io
 2. 更改 `./docs/src` 目录下的 Markdown 文件 (不用修改文件名和主标题)
 3. 如果在 `./docs/src` 目录下不存在对应的 Markdown 文件，则用全局搜索的方式搜索对应的内容（一般是一个注释），然后进行编辑
 4. 示例 (example) 里的英文不需要翻译成中文
